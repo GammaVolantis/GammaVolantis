@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GammaVolantis
-- 👀 I’m interested in coding videogames and pen testing.
-- 🌱 I’m currently learning C++, Python, and CySA+
-- 💞️ I’m not ready to collaborate on anything quite yet (I dont have enough knowledge yet!!)
+- 👋 Hi, I’m Staton Otto
+- 👀 I’m interested in coding for videogames.
+- 🌱 I’m currently learning C++, Python, and simple game design.
+- 💞️ I'm currently working on transfering to a new college for the spring 2023 semester.
 - 📫 You can DM me on discord at Gamma#0690
 
 <!---
