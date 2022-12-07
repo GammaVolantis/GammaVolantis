@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Staton Otto
-- 👀 I’m interested in coding for videogames.
+- 👀 I’m interested in coding for videogames from engines to graphics atm.
 - 🌱 I’m currently learning C++, Python, and simple game design.
-- 💞️ I'm currently working on transfering to a new college for the spring 2023 semester.
+- 💞️ I'm currently transfering to UW Stout for the spring 2023 semester.
 - 📫 You can DM me on discord at Gamma#0690
 
 <!---
